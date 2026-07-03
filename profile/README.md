@@ -45,18 +45,12 @@
     </tr>
     <!-- ===== URDF ===== -->
     <tr>
-      <td colspan="1" rowspan="2" align="center">
-        <b>URDF</b>
+      <td colspan="1" rowspan="1" align="center">
+        <b>Digital Assets</b>
       </td>
       <td>
-        <a href="https://github.com/gli-sdk/ghand_description">GHand 5 URDF</a><br>
-        URDF description package for GHand 5.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/gli-sdk/ghand_description">GHand Lite 1 URDF</a><br>
-        URDF description package for GHand Lite 1.
+        <a href="https://github.com/gli-sdk/GHand-Assets">GHand Asserts</a><br>
+        Up-to-date URDF, MJCF, and USD assets for GHand 5. Recommended for ROS 2, Isaac Sim, MuJoCo, and modern simulation workflows.
       </td>
     </tr>
     <!-- ===== ROS ===== -->
@@ -65,7 +59,7 @@
         <b>ROS</b>
       </td>
       <td>
-        <a href="https://github.com/gli-sdk/ghand_ros2">GHand ROS 2 Driver</a><br>
+        <a href="https://github.com/gli-sdk/GHand-ROS2">GHand ROS 2 Driver</a><br>
         ROS 2 driver for GHand control.
       </td>
     </tr>
