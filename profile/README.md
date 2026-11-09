@@ -79,7 +79,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/gli-sdk/ghand-mujoco">GHand MuJuCo</a><br>
+      <td><a href="https://github.com/gli-sdk/ghand-mujoco">GHand MuJoCo</a><br>
         MuJoCo simulation environment for GHand.
       </td>
     </tr>
